@@ -5,10 +5,10 @@ This repository aims to provide documentation to help people wanting to learn ap
 ## Target
 The final aim is to provide a simple CRUD Todo app with basic authentication using the following stack:
 
-vue.js - providing a SPA Frontend
-tailwind.css - helping with styling
-express.js - providing a REST API and Authentication
-mongodb - as the database
+vue.js - providing a SPA Frontend \
+tailwind.css - helping with styling \
+express.js - providing a REST API and Authentication\
+mongodb - as the database\
 
 ## Todos
 
